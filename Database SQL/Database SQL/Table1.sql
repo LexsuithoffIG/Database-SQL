@@ -1,4 +1,5 @@
-﻿CREATE TABLE [dbo].[Table1]
+﻿CREATE TABLE [dbo].[Currency]
 (
-	[Id] INT NOT NULL PRIMARY KEY
+	[Currency_Id] INT NOT NULL PRIMARY KEY,
+	[Currency_Description] NVARCHAR(10) NULL
 )
