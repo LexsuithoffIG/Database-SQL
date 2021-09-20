@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Land]
+(
+	[Land_Id] INT NOT NULL PRIMARY KEY,
+	[Land_Name] NVARCHAR(50) NOT NULL
+)

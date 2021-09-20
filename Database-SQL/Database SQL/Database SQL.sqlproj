@@ -58,6 +58,7 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Table1.sql" />
+    <Build Include="Currency.sql" />
+    <Build Include="Land.sql" />
   </ItemGroup>
 </Project>
